@@ -26,5 +26,4 @@ The data was collected from the official SHEGLAM website:
 
 ## 🚀 Try the App
 Click below to explore the Streamlit app:
-
- [Launch the Dashboard]([https://YOUR-STREAMLIT-APP-LINK](https://sheglam-mtzzprwatu9ibsx7wywcnu.streamlit.app/))
+(https://sheglam-mtzzprwatu9ibsx7wywcnu.streamlit.app/))
