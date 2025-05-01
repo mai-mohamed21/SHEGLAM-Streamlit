@@ -20,7 +20,7 @@ Users can:
 - Plotly
 - WordCloud
 
-## 🧾 Dataset
+## 🗒 Dataset
 The data was collected from the official SHEGLAM website:
 [https://www.sheglam.com/](https://www.sheglam.com/)
 
