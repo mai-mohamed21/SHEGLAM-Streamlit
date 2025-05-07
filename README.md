@@ -1,29 +1,41 @@
-# 💄 SHEGLAM Product Analysis Dashboard
+💄 SHEGLAM Product Analysis with Web Scraping & Dashboard
+This project involves building an automated web scraper to extract detailed product data from SHEGLAM, followed by creating an interactive Streamlit dashboard for in-depth analysis and visualization.
 
-An interactive dashboard to explore and analyze SHEGLAM makeup products, using Streamlit and data visualization techniques.
+🔍 Overview
+In this project, we developed a Python + Selenium web scraper to collect rich product information from SHEGLAM. The data includes product details such as name, price, category, subcategory, ratings, and more.
 
-## 🔍 Overview
+The interactive dashboard lets users:
 
-This project provides visual and statistical insights into SHEGLAM products based on attributes such as category, subcategory, price, star ratings, best sellers, and collections.
+Filter products by category
 
-Users can:
-- Filter products by category
-- Explore best sellers and top-rated products
-- Visualize product distribution across categories and subcategories
-- Analyze product collections with pricing and performance stats
+Explore best sellers and top-rated products
 
-## 📊 Tools & Technologies
-- Python
-- Streamlit
-- Pandas
-- Seaborn / Matplotlib
-- Plotly
-- WordCloud
+Visualize product distribution across categories and subcategories
 
-## 🗒 Dataset
-The data was collected from the official SHEGLAM website:
-[https://www.sheglam.com/](https://www.sheglam.com/)
+Analyze product collections with detailed pricing and performance stats
 
-## 🚀 Try the App
-Click below to explore the Streamlit app:
-(https://sheglam-mtzzprwatu9ibsx7wywcnu.streamlit.app/))
+📊 Tools & Technologies
+Python
+
+Selenium (for web scraping)
+
+Streamlit (for the interactive dashboard)
+
+Pandas
+
+Seaborn / Matplotlib
+
+Plotly
+
+BeautifulSoup (for minor HTML parsing)
+
+WordCloud (for visualizing product keywords)
+
+🗒 Dataset
+Data was collected via scraping from the official SHEGLAM website:
+https://www.sheglam.com/
+
+🚀 Try the App
+Click below to explore the Streamlit app and see the data in action:
+Streamlit App Link
+
